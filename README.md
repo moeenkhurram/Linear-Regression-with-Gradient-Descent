@@ -1,1 +1,1 @@
-# Linear-Regression-with-Gradient-Descent
+# Linear Regression with Gradient Descent from scratch
